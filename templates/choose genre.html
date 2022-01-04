@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Choose Genre</title>
+    <link rel="stylesheet" type="text/css" href="./styles.scss">
+
+</head>
+<body>
+    {% block content %}
+    <section class="our-team">
+    <div class="grid-container" id="content">
+        <div class="team-description">
+            <h2 class="team-title">Choose a <span>genre</span></h2>
+            <p>There are plenty to choose from: </p>
+        </div>
+    </div>
+    </section>
+    {% endblock %}
+    <script>
+        genres = {{ genres|tojson }}
+        container = document.getElementById('content')
+        for(var [key, value] of Object.entries(genres)){
+            a_element = document.createElement('a')
+            a_element.href = '/choose_song?language=' + '{{ lang }}' + '&genre=' + key.replace(' ', '%20')
+            image_element = document.createElement('img')
+            console.log((genres[key])['img-url'])
+            image_element.src = (genres[key])['img-url']
+            image_element.style = "width:40%; height:40%;"
+            divel = document.createElement('figure')
+            divel.classList.add('team-member')
+            caption = document.createElement('figcaption')
+            genre_name = document.createElement('h4')
+            genre_name.classList.add('name')
+            genre_name.innerHTML = key.toString()
+            caption.appendChild(genre_name)
+            divel.appendChild(image_element)
+            divel.appendChild(caption)
+            a_element.appendChild(divel)
+            container.appendChild(a_element)
+        }
+    </script>
+</body>
+</html>

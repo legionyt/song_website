@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Choose a song</title>
+</head>
+<body>
+{% block content %}
+<div id="container">
+    <h1>Songs in this GENRE</h1>
+</div>
+{% endblock %}
+<script>
+    var songs = {{ songs|tojson }}
+    var container = document.getElementById('container')
+    for(var [key, value] of Object.entries(songs)){
+        if(key != 'img-url'){
+            var p_element = document.createElement('p')
+            var a_element = document.createElement('a')
+            a_element.href = value
+            p_element.innerHTML = key
+            a_element.appendChild(p_element)
+            container.appendChild(a_element)
+        }
+
+    }
+</script>
+</body>
+</html>

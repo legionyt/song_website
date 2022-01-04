@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Choose your language</title>
+</head>
+<body>
+{% block content %}
+<form action="/choose_genre">
+  <label for="language">Choose a language:</label>
+  <select name="language" id="language">
+  </select>
+  <br><br>
+  <input type="submit" value="Submit">
+</form>
+{% endblock %}
+<script>
+  info = {{ data|tojson }}
+  option = document.getElementById('language')
+  for(var [key, value] of Object.entries(info)){
+    new_element = document.createElement('option')
+    new_element.value = key
+    new_element.innerHTML = key
+    option.appendChild(new_element)
+    console.log('successfully appended ' + key + ' to languages')
+  }
+</script>
+</body>
+</html>
