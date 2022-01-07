@@ -18,9 +18,12 @@ def choose_lang():
 @app.route('/choose_genre')
 def return_genre_page():
     lang = flask.request.args.get('language')
-    genres = data[lang]
-    print(genres)
-    return flask.render_template('choose genre.html', genres=genres, lang=lang)
+
+    if lang:
+        genres = data[lang]
+        return flask.render_template('choose genre.html', genres=genres, lang=lang)
+    else:
+        return 'That page doesn\'t exist, sorry :('
 
 
 @app.route('/choose_song')
