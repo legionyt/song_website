@@ -1,17 +1,20 @@
 {
   "korean": {
     "emo": {
-      "img-url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBjzkI1QhaVIXVB1Ks15sGMvEkVgvq8HBRUA&usqp=CAU",
+      "img-url": "https://i.pinimg.com/564x/16/69/2c/16692cf6f8f343568561d487627f1283.jpg",
       "tokyo by rm": "https://open.spotify.com/track/3RvScmBWbdbnOVMF6FMcXI?si=bWGi9iqZQey1yKr5Bysc9Q&utm",
       "maze in the mirror by txt": "https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp?si=1IoNhxRaTSqwlGMxodvGhA&utm"
     },
     "trippy songs to vibe to": {
+      "img-url": "https://i.pinimg.com/564x/bd/fd/58/bdfd5816c8d3e1b3e06fde0b999118ba.jpg",
+      "badbye by rm and eAeon": "https://open.spotify.com/track/7L8JKDh4yB5rCcg2Rp4yvz?si=28640953cc214408",
       "tear drop by sf9": "https://open.spotify.com/track/5T6UFJ0AtAU7gXGybQ0HH7?si=G3gCAE2oQXW_vFevJnvsqQ&utm_source=copy-link",
       "deja vu by ateez": "https://open.spotify.com/track/5T6UFJ0AtAU7gXGybQ0HH7?si=G3gCAE2oQXW_vFevJnvsqQ&utm_source=copy-link",
       "can't you see me by txt": "https://open.spotify.com/track/2ecGP5xUE5126x6yHa7J6E?si=hEwuyRbxRfqSC5ruKJ7-zQ&utm_source=copy-link",
       "advice by taemin": "https://open.spotify.com/track/4rOODw637hsmsq0uzT0DN3?si=Dkot3n7xRLOUFS6MiKvOkQ&utm_source=copy-link"
     },
-    "hype": {
+    "songs to get you hyped up": {
+      "img-url": "https://i.pinimg.com/564x/c7/2f/99/c72f994ba661b4befca8b80a78e9e445.jpg",
       "god's menu by stray kids": "https://open.spotify.com/track/0RzT9tBLcQhofW2TNiHP9B?si=yon1mQoKTNSucyOcWG3T2A&utm_source=copy-link",
       "on the ground by rose": "https://open.spotify.com/track/2xgACMNtJ5YktyvOC83SPO?si=Xy1SktxWTM2f7JUNQRnz9A&utm_source=copy-link",
       "blockbuster by enhypen feat. yeonjun": "https://open.spotify.com/track/08XshFxOo9rcQagObgcoK6?si=QtVIxPuBTweMQgsc3SHB1A&utm_source=copy-link",
@@ -19,42 +22,50 @@
       "first by everglow": "https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic?si=fqPw0bzQQrKP5tR2nJ-yIQ&utm_source=copy-link"
     },
     "songs to dance to": {
+      "img-url": "https://i.pinimg.com/564x/fe/1a/ba/fe1abaa4d11620e1ecb49e341d1a32d2.jpg",
       "permission to dance by bts": "https://open.spotify.com/track/2iLgHSA5ar3kJKUWvegGPm?si=7LhbOhUFRAW-jA8hn5kS0Q&utm_source=copy-link",
       "panorama by iz*one": "https://open.spotify.com/track/5T6UFJ0AtAU7gXGybQ0HH7?si=G3gCAE2oQXW_vFevJnvsqQ&utm_source=copy-link"
     },
     "chile songs": {
-      "img-url": "https://images.squarespace-cdn.com/content/v1/5dbe0ad1270af32a3472575f/1611342689256-0CL7LNVVVR7C7U1QNJ7N/Screen+Shot+2021-01-22+at+11.11.02+AM.png",
+      "img-url": "https://i.pinimg.com/564x/f6/b3/06/f6b3067383c6819a029b544e363af947.jpg",
       "lilac by iu": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul?si=KbVbNasITy24n-4G0I7XLA&utm_source=copy-link",
       "lovemore by dosii": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul?si=KbVbNasITy24n-4G0I7XLA&utm_source=copy-link",
       "on track by stray kids": "https://open.spotify.com/track/1soyZAqoYDKzfEq3xiOKuN?si=Oith0s6GTeicmn6PmeMSBA&utm_source=copy-link"
     },
     "songs that exude happiness": {
+      "img-url": "https://i.pinimg.com/564x/cc/3c/22/cc3c228eb8b7a5ad211629e03d9632f0.jpg",
       "last by dvwn": "https://open.spotify.com/track/1soyZAqoYDKzfEq3xiOKuN?si=Oith0s6GTeicmn6PmeMSBA&utm_source=copy-link",
       "fancy by twice": "https://open.spotify.com/track/1soyZAqoYDKzfEq3xiOKuN?si=Oith0s6GTeicmn6PmeMSBA&utm_source=copy-link"
     },
     "hyperpop": {
+      "img-url": "https://i.pinimg.com/564x/a2/82/b5/a282b54e009e37dbd917b4cbc327fc0d.jpg",
       "frost by txt": "https://open.spotify.com/track/3Yp61j6axuQe4nxYWvbOXy?si=zJvb9GL2T5Gzb_8mJY6-_g&utm_source=copy-link"
     },
     "songs to cry to": {
+      "img-url": "https://i.pinimg.com/564x/b6/0d/79/b60d79d8991e6c9a7ed9e103cb7f8ab6.jpg",
       "winter flower by younha feat. rm": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC?si=cDcTf8TSQ_uRB7vwpiuCpw&utm_source=copy-link",
       "don't know what to do by blackpink": "https://open.spotify.com/track/1soyZAqoYDKzfEq3xiOKuN?si=Oith0s6GTeicmn6PmeMSBA&utm_source=copy-link"
     },
     "car songs": {
+      "img-url": "https://64.media.tumblr.com/66d0df59bda42b449c332145e5cdc7b6/d02cb6b864ab4592-af/s540x810/1b241242846d6b72e89f065dd9d155a794ad0883.jpg",
       "eternally by txt": "https://open.spotify.com/track/0RRd7AcCl0HR5gzzRuCMXs?si=zrVD82HsQXGi5wNWDtT48A&utm_source=copy-link",
       "fairy tale by seori": "https://open.spotify.com/track/02bKxwW9XY9LElj0TqDK6S?si=s3ZalFilR-iEwM26UnvLRg&utm_source=copy-link",
       "magic by txt": "https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS?si=610LTsqDSpKV6BqBQ-dHcw&utm_source=copy-link",
       "upper side dreamin' by enhypen": "https://open.spotify.com/track/6oSCR9n71tmwWL3GFb65Ec?si=QOEbnuG8TNO32f8gzyjhnw&utm_source=copy-link"
     },
     "songs to ScReAm SiNg to": {
+      "img-url": "https://i.pinimg.com/564x/33/d5/c5/33d5c5aff087511af295037d8b22d211.jpg",
       "lo$er=lo?er by txt": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6?si=leILOfcbRZOEAcTl0TUctA&utm_source=copy-link",
       "next level by aespa": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ?si=kD4KcRVqRemLFuGLFbT4UA&utm_source=copy-link"
     },
     "just heavenly": {
+      "img-url": "https://i.pinimg.com/564x/b3/8c/c2/b38cc2c23e4a6a18af660f9bbb42509c.jpg",
       "fairy of shampoo by dosii": "https://open.spotify.com/track/72eVBUhcdUQusHUhDbfQoQ?si=uFzsHeeySsyDvcJrzmPPYw&utm_source=copy-link",
       "honey tea by oohyo": "https://open.spotify.com/track/4hxcpJ1sM0lrhVrqiBIMof?si=d38RbGMuSHSg2W98RpILNw&utm_source=copy-link",
       "trivia:love by bts": "https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS?si=610LTsqDSpKV6BqBQ-dHcw&utm_source=copy-link"
     },
     "random song recommendations": {
+      "img-url": "https://i.pinimg.com/564x/95/d9/d9/95d9d9b26910a1dd2f4773ed1327fc9e.jpg",
       "ok! by nct u": "https://open.spotify.com/track/58mfBDcqsmFuP4ywJ5AuWx?si=Nxju_DLiSYGdvBW9joNYLA&utm_source=copy-link",
       "queendom by red velvet": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ?si=lVSBLCSEQPqgpyayeHmdbQ&utm_source=copy-link",
       "bicycle by chung ha": "https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz?si=w03_WDvzQrakw1QUO9nOhQ&utm_source=copy-link",
@@ -71,47 +82,56 @@
   },
   "english": {
     "trippy songs to vibe to": {
+      "img-url": "https://i.pinimg.com/564x/62/d3/d7/62d3d754fc6cfd03945995d805265923.jpg",
       "bellyache by billie eilish": "https://open.spotify.com/track/51NFxnQvaosfDDutk0tams?si=OuL8gpJVTpaE4dsx39opmg&utm_source=copy-link",
       "slow dancing in the dark by joji": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d?si=mG111APJTM-chn3PjIPEmg&utm_source=copy-link",
       "you should see me in a crown by billie eilish": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d?si=rUWfSLQVQrqT6t67uWs6tA&utm_source=copy-link"
     },
     "emo": {
+      "img-url": "https://i.pinimg.com/564x/d1/9f/8b/d19f8b053cb62a80299863a033e407d9.jpg",
       "friend by gracie abrams": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW?si=4XGaZpZjS-WBc7B4lvh5uA&utm_source=copy-link",
       "selfish by madison beer": "https://open.spotify.com/track/4PV0uE5pZSh44E3NqNNDEH?si=ZIAon423REuX_JTXf_haZg&utm_source=copy-link"
     },
-    "songs to dance to": { 
+    "songs to dance to": {
+      "img-url": "https://i.pinimg.com/564x/59/74/e5/5974e57fa5199a0150c8a47db29ad661.jpg", 
       "past lives by børns": "https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9?si=UhLX8QDQQa-ndKTl21VJdA&utm_source=copy-link",
       "peaches by justin bieber": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI?si=lojrtst_RfKhaPCEK82Dsg&utm_source=copy-link",
       "watermelon sugar by harry styles": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY?si=eIBlCiJYTmKck2UoWQRfjA&utm_source=copy-link"
     },
     "chile songs": {
+      "img-url": "https://i.pinimg.com/564x/be/a6/18/bea61839ebf2a53150b24ba74ec4eb3a.jpg",
       "double take by dhruv": "https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k?si=5sVw3jSsR-eCr3OHbXYcBA&utm_source=copy-link",
       "comfort crowd by conan gray": "https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi?si=86hC5UydRD6fv8fuMHGM7w&utm_source=copy-link",
       "i love you so by the walters": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d?si=rUWfSLQVQrqT6t67uWs6tA&utm_source=copy-link",
       "you might be sleeping by jacob and clairo": "https://open.spotify.com/track/2KvbRojbZGMsWr1Nuj5n2f?si=EpjNspwYR36QN_sfXmVTfA&utm_source=copy-link"
     },
-    "songs that exude happiness": { 
+    "songs that exude happiness": {
+      "img-url": "https://i.pinimg.com/564x/16/93/0d/16930d4203b4f696f8f0670e4a9fae01.jpg", 
       "r.e.m by ariana grande": "https://open.spotify.com/track/1xWH8zYtDeS9mW1JJG23VZ?si=6ogtOJ3mSVKnGzZxMNtKGg&utm_source=copy-link",
       "summer of love by shawn mendes": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6?si=Bk6-DpxzTyGvXlmD_DfDVA&utm_source=copy-link"
     },
     "songs to cry to": {
+      "img-url": "https://i.pinimg.com/564x/ee/8c/7c/ee8c7ca435b6ad08ba64a0fa9ca7baaa.jpg",
       "let me down slowly by alec benjamin": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d?si=SC7Sv116Qg2FZ0_Pg3UJrQ&utm_source=copy-link",
       "heather by conan gray": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l?si=zuv8IjsrRfKbiwtfo9_gRA&utm_source=copy-link"
     },
     "car songs": {
+      "img-url": "https://i.pinimg.com/564x/de/c6/25/dec625ef4d67cfa1063f41e22c8ff04b.jpg",
       "backyard boy by claire rosinkranz": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR?si=4tgj6howThmyV0lomPt9Rw&utm_source=copy-link",
       "sour candy by lady gaga feat. blackpink": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d?si=rUWfSLQVQrqT6t67uWs6tA&utm_source=copy-link",
       "brutal by olivia rodrigo": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC",
       "black lemon by generationals": "https://open.spotify.com/track/6eaz9tmnTImTVxp8c9IB7Y?si=iuF3Ga5BSO-fyj26y6PACA&utm_source=copy-link"
     },
     "songs to scream-sing to": {
+      "img-url": "https://i.pinimg.com/564x/d5/34/d7/d534d7d7cbb625c735a2826abb80e14f.jpg",
       "sweater weather by the neighborhood": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6?si=17rKynv0T1SIusRXFT29Wg&utm_source=copy-link",
       "good 4 u by olivia rodrigo": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG?si=J2lFTNaET0KP9fULwkQr9w&utm_source=copy-link",
       "abcdefu by gayle": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2",
       "cloud 9 by beach bunny": "https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm?si=t52OZ69zRCWY4taqaQVw7A&utm_source=copy-link",
       "youngblood by 5sos": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l?si=zuv8IjsrRfKbiwtfo9_gRA&utm_source=copy-link"
     },
-    "just heavenly": { 
+    "just heavenly": {
+      "img-url": "https://i.pinimg.com/564x/65/ce/9c/65ce9c626920d9449a5b3199f73de93a.jpg",
       "sofia by clairo": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM?si=1LUtkKiySPO3FlQUUaccog&utm_source=copy-link",
       "pretty girl by clairo": "https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l",
       "boyfriend by ariana grande with social house": "https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t?si=Pl1L3o5EQwGyvbpQluD67w&utm_source=copy-link",
@@ -120,10 +140,12 @@
       "carry you by ruelle and fleurie": "https://open.spotify.com/track/0TbP1ASV5mBpwpME75LWRA?si=WCRcTlxzRjuIieXhxlNdxQ&utm_source=copy-link"
     },
     "hyperpop": {
+      "img-url": "https://i.pinimg.com/564x/a0/8f/c9/a08fc9263d59b9afa4193524022d99ec.jpg",
       "just for me by pinkpanthress": "https://open.spotify.com/track/1Q6lzzQHM5dvtTCwcfeKDy?si=NVFEEB6LSKC56EV0QHNrvA&utm_source=copy-link",
       "no error by yameii online": "https://open.spotify.com/track/502VTTTwsi925KkM6nXLoF?si=cQcT6FdXTu29HZEniH248w&utm_source=copy-link"
     },
     "random song recommendations": {
+      "img-url": "https://i.pinimg.com/236x/83/20/66/8320663b4815ee9ad576521e97ce9b42.jpg",
       "someone to you by banners": "https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3?si=1h33NC4gQjqgddGH-cCK0A&utm_source=copy-link",
       "stay by the kid laroi with justin bieber": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20?si=JGtHPy7cRlGlTdmHqQ744Q&utm_source=copy-link",
       "where do we go from here? by ruelle": "https://open.spotify.com/track/6nvRLsMrOAGTYWGOIAUSfS?si=HF_wCWmsS7awo-2HTxXtwQ&utm_source=copy-link",
@@ -139,29 +161,35 @@
   },
   "hindi": {
     "just a vibe": {
+      "img-url": "https://i.pinimg.com/564x/dd/07/a2/dd07a21292bb2e55ebbfc0a86579b23b.jpg",
       "tose naina": "https://open.spotify.com/track/2dPUug9YiNL4ypu8UF8SnD?si=5070b689d3a946d0",
       "barso re": "https://open.spotify.com/track/32DWojMZeZebVrfBkhAkKy",
       "ishq bulaava": "https://open.spotify.com/track/1fkjRQA8wXPPyxqYLbxuqy?si=UtPC3lyrTLCjyl9IwmeF0g&utm_source=copy-link"
     },
     "happy": {
+      "img-url": "https://i.pinimg.com/564x/3d/73/77/3d7377208151fb13d8df54158cf991ed.jpg",
       "jab tak": "https://open.spotify.com/track/35RWttZt8zGGzT0mWtlXpn?si=ce79d23c13574f46",
       "ambarsariya": "https://open.spotify.com/track/4qRcjFkFqSpLBzcbLDt7HL"
     },
     "car songs": {
+      "img-url": "https://i.pinimg.com/564x/98/e9/42/98e94248230c8647cc4ef4d567f61d51.jpg",
       "moh moh ke dage": "https://open.spotify.com/track/189DQylImZ1hGZaIpAQUzx?si=4775e909da7941f1",
       "chogada": "https://open.spotify.com/track/4ymPEyiXabTe1NO8q8EFxG",
       "mere rashke qamar": "https://open.spotify.com/track/4sNiMTu47WkUgW87qeUlWF:"
     },
     "sad": {
+      "img-url": "https://i.pinimg.com/564x/41/94/72/4194724c56e74d9585d9cb069307de72.jpg",
       "kabira": "https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c?si=65ef912eb4234d75",
       "dhadak title track": "https://open.spotify.com/track/6Gx3Ry4ORogdMibbdITOuN",
       "kal ho naa ho": "https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I?si=z9ZW4GeDSaWAZYeU4nyQOA&utm_source=copy-link"
     },
     "songs to dance to": {
+      "img-url": "https://i.pinimg.com/564x/0f/e1/68/0fe1685222acd88aa7fa55230740fb09.jpg",
       "kar gayi chull": "https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3",
       "rajvaadi odhni": "https://open.spotify.com/track/1YGvvTwsMI67MJCmQpLAPO?si=YjQpM-apSbu_EOxEjhPeHQ&utm_source=copy-link"
     },
     "just heavenly": {
+      "img-url": "https://i.pinimg.com/564x/93/74/8d/93748d26a68d5ae4f9d87a27d1f0f44b.jpg",
       "nainowale ne": "https://open.spotify.com/track/1Xl83AOH0iWEOVFcdQqKBW?si=sHfbuAoFSA2WzZdp3dHnKA&utm_source=copy-link",
       "dilbaro": "https://open.spotify.com/track/7IC7D8HIUgBqPiKDpOFBQt?si=qYOQvE3ER2y6xuRH_2iLBg&utm_source=copy-link",
       "sage": "https://open.spotify.com/track/43mHckutQvJr49nT0UvRxy"
@@ -169,40 +197,46 @@
   },
   "tamil": {
     "sad": {
+      "img-url": "https://i.pinimg.com/564x/60/bb/77/60bb7748fc372cc2b3099e9878fe1abe.jpg",
       "vaa rayil vida polaama": "https://open.spotify.com/track/1guYBJjVCPeY21S9Zs6Bpj?si=461c3783141849d0",
-      "mannipaya": "https://open.spotify.com/track/7mMkw0JFKnyMS6oGRT6b3O"
-    },
-    "for when you feel like crying": {
+      "mannipaya": "https://open.spotify.com/track/7mMkw0JFKnyMS6oGRT6b3O",
       "yean": "https://open.spotify.com/track/3hPCWHbxe2tplcTkZByG9c?si=68c6f82ffa864520"
     },
     "happy": {
+      "img-url": "https://i.pinimg.com/564x/2e/99/99/2e999952fb8d1006638ceb99cbf578f3.jpg",
       "adiye": "https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG?si=186fbfe2f96e41b3",
       "kaara aattakkaara": "https://open.spotify.com/track/0uEtUhy8xAX1fJFiqNs5sr?si=552843622df24cb3:,",
       "hasili fisiliye": "https://open.spotify.com/track/6vztfVJ1lTWe23YMNv6Pk1"
     },
     "car songs": {
+      "img-url": "https://i.pinimg.com/564x/c7/2f/99/c72f994ba661b4befca8b80a78e9e445.jpg",
       "mental manadhil": "https://open.spotify.com/track/4mOmWSdTmf6fSAibGWCKp7?si=a7e622f4c85947ef",
       "thaarame thaarame": "https://open.spotify.com/track/1hhLL2eWsnPtYCdDjbiRIU?si=baDVf-4TSiuK5w8MjxxXMQ&utm_source=copy-link"
     },
     "just vibes": {
+      "img-url": "",
       "sandai kozhi": "https://open.spotify.com/track/7FdjVvXmBLOL3sqZh47Blv"
     }
   },
-  "malyalam": {
+  "malayalam": {
     "happy": {
+      "img-url": "https://i.pinimg.com/564x/2e/ab/b0/2eabb0eabb565a2771d587c2c5c1bf27.jpg",
       "chimmi chimmi": "https://open.spotify.com/track/1KDwTjiPiUxjwBZ2ERdiRR",
       "darshana": "https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2",
       "uyire": "https://open.spotify.com/track/1guYBJjVCPeY21S9Zs6Bpj?si=461c3783141849d0"
     },
     "sad": {
+      "img-url": "https://i.pinimg.com/564x/5a/4d/2f/5a4d2f83de01d936db17725be04e748e.jpg",
       "thaarapadhamake": "https://open.spotify.com/track/3PdKlt7WAfZQbP2WXS8J34"
     }
   },
     "telugu": {
+      "img-url": "https://i.pinimg.com/564x/5f/47/c3/5f47c37b488f67b1674fb47609ed0a17.jpg",
       "sad": {
         "priyathama priyathama": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
       },
       "happy": {
+      "img-url": "https://i.pinimg.com/564x/15/6d/c3/156dc3a168576a26ed2ef24fb620aad8.jpg",
         "tharagathi gadhi": "https://open.spotify.com/track/7El6rXuDiiMNreCDv5QKBD"
       }
     }
